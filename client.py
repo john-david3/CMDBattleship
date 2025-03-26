@@ -1,6 +1,6 @@
 from socket import *
 import sys
-from main import GameSetup
+from utils import GameSetup
 from time import sleep
 
 if len(sys.argv) != 3:
